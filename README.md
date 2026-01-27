@@ -1,10 +1,10 @@
-☑️ To-Do List (PyScript Experiment) ✅
+# ☑️ To-Do List (PyScript Experiment) ✅
 
-This is a simple to-do list web app built with PyScript
+This is a simple to-do list web app built with PyScript ( an open source framework that makes it possible to Python within the browser)
 , HTML, and CSS.
 The project is experimental and serves as a way to explore how Python can run directly in the browser using PyScript.
 ____________________________________________________________________________________________________________________________________________
-✨ Features
+# ✨ Features
 
 Add tasks via input form
 
@@ -16,7 +16,7 @@ Checkbox added to each task for completion tracking
 
 Minimal UI with lightweight HTML + CSS
 ____________________________________________________________________________________________________________________________________________
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Python (via PyScript)
 
@@ -26,7 +26,7 @@ CSS3
 
 JavaScript DOM API (bridged through PyScript)
 ____________________________________________________________________________________________________________________________________________
-⚠️ Notes
+# ⚠️ Notes
 
 This is purely experimental and not production-ready.
 
